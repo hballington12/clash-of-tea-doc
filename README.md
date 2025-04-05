@@ -37,8 +37,8 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 
 | Unlocked | Level | Combat level unlocked | Requirements |
 |----|-------|-------------|-----------|
-| :white_check_mark: | 2 | 100 | 10,000 Coins, 250 Ores, 500 Runes, 4 Bracelets of Ethereum, 2 Grapes |
-| 3 | 200 | 250 Herbs, 10 Larran's Keys, 500 Seeds, 2 Long Bones, 4 Mole Claws |
+|:white_check_mark:| 2 | 100 | 10,000 Coins, 250 Ores, 500 Runes, 4 Bracelets of Ethereum, 2 Grapes |
+|:white_check_mark:| 3 | 200 | 250 Herbs, 10 Larran's Keys, 500 Seeds, 2 Long Bones, 4 Mole Claws |
 | 4 | 300 | 500 Adamantite Bars, 100,000 Coins, 500 Gems, 6 Lunar Chest Uniques |
 | 5 | 400 | 20 Yew Seeds, 25 Brimstone Keys, 2 Ballista Springs, 2 Cheese |
 | 6 | 500 | 2 Colosseum Uniques, 100,000 Coins, 1 Kurask Head, 5,000 Logs, 2 Kraken Tentacles |
@@ -50,11 +50,11 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 ## 🧵 Crafting Guild
 *Multiplies gem drops*
 
-| Level | Requirements |
-|-------|-------------|
-~~| 1 | 1,000 Coins, 500 Pure Essence |~~
-~~| 2 | 6 Scurrius' Spines |~~
-~~| 3 | 200 Blighted Manta Rays |~~
+| Unlocked | Level | Requirements |
+|-----|-------|-------------|
+| :white_check_mark: | 1 | 1,000 Coins, 500 Pure Essence |
+| :white_check_mark: | 2 | 6 Scurrius' Spines |
+| :white_check_mark: | 3 | 200 Blighted Manta Rays |
 | 4 | 2 Splitbark Bodies |
 | 5 | 50,000 Coins |
 | 6 | 2 Tzhaar-ket-oms |
@@ -65,10 +65,10 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 ## 🌱 Farming Guild
 *Multiplies seed drops*
 
-| Level | Requirements |
-|-------|-------------|
-~~| 1 | 100 Runes, 50 Seeds, 1,000 Coins |~~
-~~| 2 | 100 Herbs, 25,000 Coins |~~
+| Unlocked | Level | Requirements |
+|----|-------|-------------|
+| :white_check_mark: | 1 | 100 Runes, 50 Seeds, 1,000 Coins |
+| :white_check_mark: | 2 | 100 Herbs, 25,000 Coins |
 | 3 | 2 Iron Halberds, 5,000 Body Runes |
 | 4 | 100,000 Coins |
 | 5 | 200,000 Coins |
@@ -80,8 +80,8 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 ## 🏯 Garrisons
 *Allows you to access drops from raids*
 
-| Level | Requirements | Unlocks |
-|-------|-------------|---------|
+| Unlocked| Level | Requirements | Unlocks |
+|-----|-------|-------------|---------|
 | 2 | 3 Leaf-bladed Items, 2 Blood Shards, 25 Bronze Bars | Lunar Chests |
 | 3 | 2 Granite Legs, 25 Rune Hastas, 5,000 Runes, 2 Sarachnis Cudgels | Fortis Colosseum |
 | 4 | 2 Unsireds, 2 Dragon Pickaxes, 2 Dragon Chainbodies, 20 Dragon Platelegs, 5 Dragon Med Helms, 10,000 Logs, 2 Shield Left Halfs | Tombs of Amascut |
@@ -91,7 +91,7 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 ## 🌿 Herbalist's Hut
 *Multiplies herb drops*
 
-| Level | Requirements |
+|Unlocked | Level | Requirements |
 |-------|-------------|
 ~~| 1 | 100 Bones |~~
 ~~| 2 | 2 Grimy Guams |~~
