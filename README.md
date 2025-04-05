@@ -86,7 +86,7 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 
 | Unlocked | Level | Requirements | Unlocks |
 |-----|-------|-------------|---------|
-| | 2 | 3 Leaf-bladed Items, 2 Blood Shards, 25 Bronze Bars | Lunar Chests |
+| :white_check_mark: | 2 | 3 Leaf-bladed Items, 2 Blood Shards, 25 Bronze Bars | Lunar Chests |
 | | 3 | 2 Granite Legs, 25 Rune Hastas, 5,000 Runes, 2 Sarachnis Cudgels | Fortis Colosseum |
 | | 4 | 2 Unsireds, 2 Dragon Pickaxes, 2 Dragon Chainbodies, 20 Dragon Platelegs, 5 Dragon Med Helms, 10,000 Logs, 2 Shield Left Halfs | Tombs of Amascut |
 | | 5 | 2 Fedoras, 2 Spirit Shields, 1,337 Gems, 10 Malediction/Odium Shards | Chambers of Xeric |
