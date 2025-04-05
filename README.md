@@ -73,9 +73,9 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 |----|-------|-------------|
 | :white_check_mark: | 1 | 100 Runes, 50 Seeds, 1,000 Coins |
 | :white_check_mark: | 2 | 100 Herbs, 25,000 Coins |
-| | 3 | 2 Iron Halberds, 5,000 Body Runes |
-| | 4 | 100,000 Coins |
-| | 5 | 200,000 Coins |
+| :white_check_mark: | 3 | 2 Iron Halberds, 5,000 Body Runes |
+| :white_check_mark: | 4 | 100,000 Coins |
+| :white_check_mark: | 5 | 200,000 Coins |
 | | 6 | 200 Mole Skins |
 | | 7 | 200 Lily of the Sands |
 | | 8 | 300,000 Coins |
@@ -86,7 +86,7 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 
 | Unlocked | Level | Requirements | Unlocks |
 |-----|-------|-------------|---------|
-| :white_check_mark: | 2 | 3 Leaf-bladed Items, 2 Blood Shards, 25 Bronze Bars | Lunar Chests |
+| | 2 | 3 Leaf-bladed Items, 2 Blood Shards, 25 Bronze Bars | Lunar Chests |
 | | 3 | 2 Granite Legs, 25 Rune Hastas, 5,000 Runes, 2 Sarachnis Cudgels | Fortis Colosseum |
 | | 4 | 2 Unsireds, 2 Dragon Pickaxes, 2 Dragon Chainbodies, 20 Dragon Platelegs, 5 Dragon Med Helms, 10,000 Logs, 2 Shield Left Halfs | Tombs of Amascut |
 | | 5 | 2 Fedoras, 2 Spirit Shields, 1,337 Gems, 10 Malediction/Odium Shards | Chambers of Xeric |
@@ -129,9 +129,9 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 |---|-------|-------------|
 | :white_check_mark: | 1 | 50 Herbs |
 | :white_check_mark: | 2 | 50 Steel Bars |
-| | 3 | 123 Mahogany Logs |
-| | 4 | 10 Zombie Pirate Keys |
-| | 5 | 2 Sinister Keys |
+| :white_check_mark: | 3 | 123 Mahogany Logs |
+| :white_check_mark: | 4 | 10 Zombie Pirate Keys |
+| :white_check_mark: | 5 | 2 Sinister Keys |
 | | 6 | 100 Mole Claws |
 | | 7 | 2 Dark Claws |
 | | 8 | 2 Ancient Icons |
