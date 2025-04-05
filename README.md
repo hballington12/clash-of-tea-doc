@@ -96,12 +96,12 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 | :white_check_mark: | 1 | 100 Bones |
 | :white_check_mark: | 2 | 2 Grimy Guams |
 | :white_check_mark: | 3 | 5 Grimy Marrentills |
-| | 4 | 2 Splitbark Legs |
-| | 5 | 25 Unidentified Small Fossils |
-| | 6 | 2 Crystal Keys |
-| | 7 | 2 Glacial Temotlis |
-| | 8 | 4 Dragon Halberds |
-| | 9 | 1,000 Guam Seeds |
+| :red_circle: | 4 | 2 Splitbark Legs |
+| :red_circle: | 5 | 25 Unidentified Small Fossils |
+| :red_circle: | 6 | 2 Crystal Keys |
+| :red_circle: | 7 | 2 Glacial Temotlis |
+| :red_circle: | 8 | 4 Dragon Halberds |
+| :red_circle: | 9 | 1,000 Guam Seeds |
 
 ## ⛏️ Prospector's Shop
 *Multiplies ore drops*
