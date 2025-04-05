@@ -1,3 +1,7 @@
+# General info
+
+In the `ppp-bbw-future-gms` channel in disc, type `upgrade_building ppp <building_name>` to upgrade a building when we have the materials, can also be used to show which resources we need for any given building.
+
 # Building Upgrade Guide
 
 This guide provides a detailed overview of all buildings in the game and their upgrade requirements. Each section covers one building, its function, and the resources needed for each level.
