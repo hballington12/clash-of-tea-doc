@@ -82,11 +82,11 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 
 | Unlocked | Level | Requirements | Unlocks |
 |-----|-------|-------------|---------|
-| | 2 | 3 Leaf-bladed Items, 2 Blood Shards, 25 Bronze Bars | Lunar Chests |
-| | 3 | 2 Granite Legs, 25 Rune Hastas, 5,000 Runes, 2 Sarachnis Cudgels | Fortis Colosseum |
-| | 4 | 2 Unsireds, 2 Dragon Pickaxes, 2 Dragon Chainbodies, 20 Dragon Platelegs, 5 Dragon Med Helms, 10,000 Logs, 2 Shield Left Halfs | Tombs of Amascut |
-| | 5 | 2 Fedoras, 2 Spirit Shields, 1,337 Gems, 10 Malediction/Odium Shards | Chambers of Xeric |
-| | 6 | 1 Fedora, 6,969 Mist Runes, 5 Malediction/Odium Shards, 2 Occult Necklaces | Theatre of Blood |
+| :red_circle: | 2 | 3 Leaf-bladed Items, 2 Blood Shards, 25 Bronze Bars | Lunar Chests |
+| :red_circle: | 3 | 2 Granite Legs, 25 Rune Hastas, 5,000 Runes, 2 Sarachnis Cudgels | Fortis Colosseum |
+| :red_circle: | 4 | 2 Unsireds, 2 Dragon Pickaxes, 2 Dragon Chainbodies, 20 Dragon Platelegs, 5 Dragon Med Helms, 10,000 Logs, 2 Shield Left Halfs | Tombs of Amascut |
+| :red_circle: | 5 | 2 Fedoras, 2 Spirit Shields, 1,337 Gems, 10 Malediction/Odium Shards | Chambers of Xeric |
+| :red_circle: | 6 | 1 Fedora, 6,969 Mist Runes, 5 Malediction/Odium Shards, 2 Occult Necklaces | Theatre of Blood |
 
 ## 🌿 Herbalist's Hut
 *Multiplies herb drops*
@@ -96,12 +96,12 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 | :white_check_mark: | 1 | 100 Bones |
 | :white_check_mark: | 2 | 2 Grimy Guams |
 | :white_check_mark: | 3 | 5 Grimy Marrentills |
-| :red_circle: | 4 | 2 Splitbark Legs |
-| :red_circle: | 5 | 25 Unidentified Small Fossils |
-| :red_circle: | 6 | 2 Crystal Keys |
-| :red_circle: | 7 | 2 Glacial Temotlis |
-| :red_circle: | 8 | 4 Dragon Halberds |
-| :red_circle: | 9 | 1,000 Guam Seeds |
+|  | 4 | 2 Splitbark Legs |
+|  | 5 | 25 Unidentified Small Fossils |
+|  | 6 | 2 Crystal Keys |
+|  | 7 | 2 Glacial Temotlis |
+|  | 8 | 4 Dragon Halberds |
+|  | 9 | 1,000 Guam Seeds |
 
 ## ⛏️ Prospector's Shop
 *Multiplies ore drops*
