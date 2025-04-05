@@ -1,6 +1,6 @@
 # General info
 
-In the `ppp-bbw-future-gms` channel in disc, type `upgrade_building ppp <building_name>` to upgrade a building when we have the materials, can also be used to show which resources we need for any given building.
+In the `ppp-bbw-future-gms` channel in disc, type `/upgrade_building ppp <building_name>` to upgrade a building when we have the materials, can also be used to show which resources we need for any given building. `<building_name>` replaced with with the building name e.g. `crafting_guild`
 
 # Building Upgrade Guide
 
