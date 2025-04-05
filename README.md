@@ -35,9 +35,9 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 ## ⚔️ Armory
 *Allows you to get drops from higher level monsters*
 
-| Level | Combat level unlocked | Requirements |
-|-------|-------------|-----------|
-| 2 | 100 | ~~10,000 Coins, 250 Ores, 500 Runes, 4 Bracelets of Ethereum, 2 Grapes~~ |
+| Unlocked | Level | Combat level unlocked | Requirements |
+|----|-------|-------------|-----------|
+| [ ] | 2 | 100 | 10,000 Coins, 250 Ores, 500 Runes, 4 Bracelets of Ethereum, 2 Grapes |
 | 3 | 200 | 250 Herbs, 10 Larran's Keys, 500 Seeds, 2 Long Bones, 4 Mole Claws |
 | 4 | 300 | 500 Adamantite Bars, 100,000 Coins, 500 Gems, 6 Lunar Chest Uniques |
 | 5 | 400 | 20 Yew Seeds, 25 Brimstone Keys, 2 Ballista Springs, 2 Cheese |
