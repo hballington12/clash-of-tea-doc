@@ -16,7 +16,7 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 |        7       |    3.3     |     25     |
 |        8       |    4.0     |     35     |
 |        9       |    5.0     |     50     |
-|----------------|------------|------------|
+
 
 ## 🏰 Town Hall
 *The main goal is to upgrade this building.*
@@ -35,10 +35,10 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 ## ⚔️ Armory
 *Allows you to get drops from higher level monsters*
 
-| Level | Combat level | Requirements |
-|-------|-------------|
-~~| 2 | 100 | 10,000 Coins, 250 Ores, 500 Runes, 4 Bracelets of Ethereum, 2 Grapes |~~
-~~| 3 | 200 | 250 Herbs, 10 Larran's Keys, 500 Seeds, 2 Long Bones, 4 Mole Claws |~~ 
+| Level | Combat level unlocked | Requirements |
+|-------|-------------|-----------|
+| 2 | 100 | ~~10,000 Coins, 250 Ores, 500 Runes, 4 Bracelets of Ethereum, 2 Grapes~~ |
+| 3 | 200 | 250 Herbs, 10 Larran's Keys, 500 Seeds, 2 Long Bones, 4 Mole Claws |
 | 4 | 300 | 500 Adamantite Bars, 100,000 Coins, 500 Gems, 6 Lunar Chest Uniques |
 | 5 | 400 | 20 Yew Seeds, 25 Brimstone Keys, 2 Ballista Springs, 2 Cheese |
 | 6 | 500 | 2 Colosseum Uniques, 100,000 Coins, 1 Kurask Head, 5,000 Logs, 2 Kraken Tentacles |
