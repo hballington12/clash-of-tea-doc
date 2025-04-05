@@ -23,7 +23,7 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 
 | Unlocked | Level | Requirements |
 |----|-------|-------------|
-| | 2 | 500 Bones, 100,000 Coins |
+| :white_check_mark: | 2 | 500 Bones, 100,000 Coins |
 | | 3 | 4 Zenyte Shards, 2 Dragon Plateskirts |
 | | 4 | 10 DKs Rings, 300 Iron Ore, 5,000 Runes |
 | | 5 | 2 KBD Heads, 200 Runite Ore, 4,000 Yew Logs, 6 Awakener's Orbs |
@@ -109,13 +109,13 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 | Unlocked | Level | Requirements |
 |---|-------|-------------|
 | :white_check_mark: | 2 | 5 Sapphire Rings, 100 Blood Runes |
-| 3 | 100 Magic Logs |
-| 4 | 2 Ancient Staves |
-| 5 | 1,000 Gold Ore |
-| 6 | 100,000 Coins |
-| 7 | 6 Rune Boots |
-| 8 | 300,000 Coins |
-| 9 | 500 Dragon Arrowtips |
+| | 3 | 100 Magic Logs |
+| | 4 | 2 Ancient Staves |
+| | 5 | 1,000 Gold Ore |
+| | 6 | 100,000 Coins |
+| | 7 | 6 Rune Boots |
+| | 8 | 300,000 Coins |
+| | 9 | 500 Dragon Arrowtips |
 
 
 ## ✨ Rune Shop
@@ -125,13 +125,13 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 |-------|-------------|
 | :white_check_mark: | 1 | 50 Herbs |
 | :white_check_mark: | 2 | 50 Steel Bars |
-| 3 | 123 Mahogany Logs |
-| 4 | 10 Zombie Pirate Keys |
-| 5 | 2 Sinister Keys |
-| 6 | 100 Mole Claws |
-| 7 | 2 Dark Claws |
-| 8 | 2 Ancient Icons |
-| 9 | 2 Hueycoatl Hides |
+| | 3 | 123 Mahogany Logs |
+| | 4 | 10 Zombie Pirate Keys |
+| | 5 | 2 Sinister Keys |
+| | 6 | 100 Mole Claws |
+| | 7 | 2 Dark Claws |
+| | 8 | 2 Ancient Icons |
+| | 9 | 2 Hueycoatl Hides |
 
 
 ## 🗡️ Slayer Master
@@ -141,12 +141,12 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 |---|-------|-------------|
 | :white_check_mark: | 2 | 70 | 100 Ores, 100 Bones, 5 Scaly Blue Dragonhides |
 | :white_check_mark: | 3 | 75 | 2 Crawling Hands, 4 Tops of Sceptre |
-| 4 | 80 | 6 Elder Chaos Robes, 2 Long Bones, 10,000 Sunfire Splinters, 500 Red Spiders' Eggs |
-| 5 | 85 | 1,000 Adamant Javelins, 2 Dragon 2H Swords, 500 Gems, 50,000 Coins |
-| 6 | 87 | 1,000 Onyx Bolt Tips, 100,000 Coins, 1,000 Herbs, 2 ToA Purple |
-| 7 | 91 | 2 Tormented Demon Uniques, 2 Voidwaker Pieces, 10 Medium Clue Scrolls, 200,000 Coins |
-| 8 | 92 | 2 Saradomin's Lights, 300,000 Coins, 2 ToA Purple |
-| 9 | 99 | 300 Runite Bars, 500,000 Coins |
+| | 4 | 80 | 6 Elder Chaos Robes, 2 Long Bones, 10,000 Sunfire Splinters, 500 Red Spiders' Eggs |
+| | 5 | 85 | 1,000 Adamant Javelins, 2 Dragon 2H Swords, 500 Gems, 50,000 Coins |
+| | 6 | 87 | 1,000 Onyx Bolt Tips, 100,000 Coins, 1,000 Herbs, 2 ToA Purple |
+| | 7 | 91 | 2 Tormented Demon Uniques, 2 Voidwaker Pieces, 10 Medium Clue Scrolls, 200,000 Coins |
+| | 8 | 92 | 2 Saradomin's Lights, 300,000 Coins, 2 ToA Purple |
+| | 9 | 99 | 300 Runite Bars, 500,000 Coins |
 
 ## 💰 Treasury
 *Multiplies coin drops*
@@ -156,12 +156,12 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 | :white_check_mark: | 1 | 150 Runes, 1,000 Coins |
 | :white_check_mark: | 2 | 5,000 Coins, 250 Runes |
 | :white_check_mark: | 3 | 20 Ranarr Seeds, 20,000 Coins, 500 Ores |
-| 4 | 150 Dragon Javelin Heads, 50,000 Coins |
-| 5 | 50,000 Coins, 500 Runes |
-| 6 | 1 Chromium Ingot |
-| 7 | 2 Abyssal Whips, 5,000 Runes |
-| 8 | 30,000 Sunfire Splinters |
-| 9 | 10 Vials of Blood |
+| | 4 | 150 Dragon Javelin Heads, 50,000 Coins |
+| | 5 | 50,000 Coins, 500 Runes |
+| | 6 | 1 Chromium Ingot |
+| | 7 | 2 Abyssal Whips, 5,000 Runes |
+| | 8 | 30,000 Sunfire Splinters |
+| | 9 | 10 Vials of Blood |
 
 
 ## 🪓 Woodcutter's Lodge
@@ -173,11 +173,11 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 | :white_check_mark: | 2 | 750 Runes |
 | :white_check_mark: | 3 | 1,000 Nature Runes |
 | :white_check_mark: | 4 | 200 Oak Planks |
-| 5 | 400 Mahogany Planks |
-| 6 | 2 Berserker Rings |
-| 7 | 2 Seers Rings |
-| 8 | 2 Light Frames |
-| 9 | 2 Aranea Boots |
+| | 5 | 400 Mahogany Planks |
+| | 6 | 2 Berserker Rings |
+| | 7 | 2 Seers Rings |
+| | 8 | 2 Light Frames |
+| | 9 | 2 Aranea Boots |
 
 
 ## Resource Categories
