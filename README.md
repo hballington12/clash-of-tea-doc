@@ -82,11 +82,11 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 
 | Unlocked | Level | Requirements | Unlocks |
 |-----|-------|-------------|---------|
-| :red_circle: | 2 | 3 Leaf-bladed Items, 2 Blood Shards, 25 Bronze Bars | Lunar Chests |
-| :red_circle: | 3 | 2 Granite Legs, 25 Rune Hastas, 5,000 Runes, 2 Sarachnis Cudgels | Fortis Colosseum |
-| :red_circle: | 4 | 2 Unsireds, 2 Dragon Pickaxes, 2 Dragon Chainbodies, 20 Dragon Platelegs, 5 Dragon Med Helms, 10,000 Logs, 2 Shield Left Halfs | Tombs of Amascut |
-| :red_circle: | 5 | 2 Fedoras, 2 Spirit Shields, 1,337 Gems, 10 Malediction/Odium Shards | Chambers of Xeric |
-| :red_circle: | 6 | 1 Fedora, 6,969 Mist Runes, 5 Malediction/Odium Shards, 2 Occult Necklaces | Theatre of Blood |
+| | 2 | 3 Leaf-bladed Items, 2 Blood Shards, 25 Bronze Bars | Lunar Chests |
+| | 3 | 2 Granite Legs, 25 Rune Hastas, 5,000 Runes, 2 Sarachnis Cudgels | Fortis Colosseum |
+| | 4 | 2 Unsireds, 2 Dragon Pickaxes, 2 Dragon Chainbodies, 20 Dragon Platelegs, 5 Dragon Med Helms, 10,000 Logs, 2 Shield Left Halfs | Tombs of Amascut |
+| | 5 | 2 Fedoras, 2 Spirit Shields, 1,337 Gems, 10 Malediction/Odium Shards | Chambers of Xeric |
+| | 6 | 1 Fedora, 6,969 Mist Runes, 5 Malediction/Odium Shards, 2 Occult Necklaces | Theatre of Blood |
 
 ## 🌿 Herbalist's Hut
 *Multiplies herb drops*
@@ -122,7 +122,7 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 *Multiplies rune drops*
 
 | Unlocked | Level | Requirements |
-|-------|-------------|
+|---|-------|-------------|
 | :white_check_mark: | 1 | 50 Herbs |
 | :white_check_mark: | 2 | 50 Steel Bars |
 | | 3 | 123 Mahogany Logs |
@@ -138,7 +138,7 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 *Allows you to get loot from monsters with slayer requirements*
 
 | Unlocked | Level | Slayer level | Requirements |
-|---|-------|-------------|
+|----|----|-------|-------------|
 | :white_check_mark: | 2 | 70 | 100 Ores, 100 Bones, 5 Scaly Blue Dragonhides |
 | :white_check_mark: | 3 | 75 | 2 Crawling Hands, 4 Tops of Sceptre |
 | | 4 | 80 | 6 Elder Chaos Robes, 2 Long Bones, 10,000 Sunfire Splinters, 500 Red Spiders' Eggs |
