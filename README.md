@@ -28,7 +28,7 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 | Unlocked | Level | Requirements |
 |----|-------|-------------|
 | :white_check_mark: | 2 | 500 Bones, 100,000 Coins |
-| | 3 | 4 Zenyte Shards, 2 Dragon Plateskirts |
+| :white_check_mark: | 3 | 4 Zenyte Shards, 2 Dragon Plateskirts |
 | | 4 | 10 DKs Rings, 300 Iron Ore, 5,000 Runes |
 | | 5 | 2 KBD Heads, 200 Runite Ore, 4,000 Yew Logs, 6 Awakener's Orbs |
 | | 6 | 4 Bandos Uniques, 2,500 Magic Logs, 1,000 Iron Ore |
@@ -43,8 +43,8 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 |----|-------|-------------|-----------|
 |:white_check_mark:| 2 | 100 | 10,000 Coins, 250 Ores, 500 Runes, 4 Bracelets of Ethereum, 2 Grapes |
 |:white_check_mark:| 3 | 200 | 250 Herbs, 10 Larran's Keys, 500 Seeds, 2 Long Bones, 4 Mole Claws |
-| | 4 | 300 | 500 Adamantite Bars, 100,000 Coins, 500 Gems, 6 Lunar Chest Uniques |
-| | 5 | 400 | 20 Yew Seeds, 25 Brimstone Keys, 2 Ballista Springs, 2 Cheese |
+| :white_check_mark: | 4 | 300 | 500 Adamantite Bars, 100,000 Coins, 500 Gems, 6 Lunar Chest Uniques |
+| :white_check_mark: | 5 | 400 | 20 Yew Seeds, 25 Brimstone Keys, 2 Ballista Springs, 2 Cheese |
 | | 6 | 500 | 2 Colosseum Uniques, 100,000 Coins, 1 Kurask Head, 5,000 Logs, 2 Kraken Tentacles |
 | | 7 | 600 | 2 Godsword Shards, 250,000 Coins, 1,000 Gems, 6,000 Ores, 100 Willow Logs |
 | | 8 | 700 | 2 Armadyl Uniques, 10,000 Gems, 5 Giant Egg Sacs |
@@ -86,8 +86,8 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 
 | Unlocked | Level | Requirements | Unlocks |
 |-----|-------|-------------|---------|
-| | 2 | 3 Leaf-bladed Items, 2 Blood Shards, 25 Bronze Bars | Lunar Chests |
-| | 3 | 2 Granite Legs, 25 Rune Hastas, 5,000 Runes, 2 Sarachnis Cudgels | Fortis Colosseum |
+| :white_check_mark: | 2 | 3 Leaf-bladed Items, 2 Blood Shards, 25 Bronze Bars | Lunar Chests |
+| :white_check_mark: | 3 | 2 Granite Legs, 25 Rune Hastas, 5,000 Runes, 2 Sarachnis Cudgels | Fortis Colosseum |
 | | 4 | 2 Unsireds, 2 Dragon Pickaxes, 2 Dragon Chainbodies, 20 Dragon Platelegs, 5 Dragon Med Helms, 10,000 Logs, 2 Shield Left Halfs | Tombs of Amascut |
 | | 5 | 2 Fedoras, 2 Spirit Shields, 1,337 Gems, 10 Malediction/Odium Shards | Chambers of Xeric |
 | | 6 | 1 Fedora, 6,969 Mist Runes, 5 Malediction/Odium Shards, 2 Occult Necklaces | Theatre of Blood |
@@ -160,8 +160,8 @@ applies to gems, seeds, herbs, ores, logs, coins & runes
 | :white_check_mark: | 1 | 150 Runes, 1,000 Coins |
 | :white_check_mark: | 2 | 5,000 Coins, 250 Runes |
 | :white_check_mark: | 3 | 20 Ranarr Seeds, 20,000 Coins, 500 Ores |
-| | 4 | 150 Dragon Javelin Heads, 50,000 Coins |
-| | 5 | 50,000 Coins, 500 Runes |
+| :white_check_mark: | 4 | 150 Dragon Javelin Heads, 50,000 Coins |
+| :white_check_mark: | 5 | 50,000 Coins, 500 Runes |
 | | 6 | 1 Chromium Ingot |
 | | 7 | 2 Abyssal Whips, 5,000 Runes |
 | | 8 | 30,000 Sunfire Splinters |
